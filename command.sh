@@ -19,7 +19,7 @@ wp --allow-root rewrite structure '/%postname%/'
 wp --allow-root rewrite flush
 
 # サンプルの投稿、固定ページを削除
-wp --allow-root post delete 1 2 --force
+wp --allow-root post delete 1 2 3 --force
 
 # サンプルのコメントを削除
 wp --allow-root comment delete 1 --force
