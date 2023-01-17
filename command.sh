@@ -27,7 +27,6 @@ wp --allow-root comment delete 1 --force
 # 必要なプラグインインストール
 wp --allow-root plugin install wp-multibyte-patch --activate
 wp --allow-root plugin install query-monitor --activate
-wp --allow-root plugin install advanced-custom-fields --activate
 wp --allow-root plugin install all-in-one-wp-security-and-firewall --activate
 wp --allow-root plugin install ewww-image-optimizer --activate
 wp --allow-root plugin install all-in-one-wp-migration --activate
