@@ -38,7 +38,6 @@ wp --allow-root plugin install classic-editor --activate
 wp --allow-root plugin install intuitive-custom-post-order --activate
 wp --allow-root plugin install akismet --activate
 wp --allow-root plugin install broken-link-checker --activate
-wp --allow-root plugin install show-current-template --activate
 wp --allow-root plugin install intuitive-custom-post-order --activate
 
 # Mailhog メールが文字化けしないよう WP Multibyte Patch の設定調整
