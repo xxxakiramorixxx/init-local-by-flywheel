@@ -30,7 +30,7 @@ wp --allow-root plugin install all-in-one-wp-security-and-firewall --activate
 wp --allow-root plugin install advanced-custom-fields --activate
 wp --allow-root plugin install ewww-image-optimizer --activate
 wp --allow-root plugin install all-in-one-wp-migration --activate
-wp --allow-root plugin install all-in-one-seo-pack --activate
+wp --allow-root plugin install wordpress-seo --activate
 wp --allow-root plugin install contact-form-7 --activate
 wp --allow-root plugin install duplicate-post --activate
 wp --allow-root plugin install admin-bar-position --activate
