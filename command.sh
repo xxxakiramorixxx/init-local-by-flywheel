@@ -26,7 +26,6 @@ wp --allow-root comment delete 1 --force
 
 # 必要なプラグインインストール
 wp --allow-root plugin install wp-multibyte-patch --activate
-wp --allow-root plugin install query-monitor --activate
 wp --allow-root plugin install all-in-one-wp-security-and-firewall --activate
 wp --allow-root plugin install advanced-custom-fields --activate
 wp --allow-root plugin install ewww-image-optimizer --activate
@@ -39,6 +38,8 @@ wp --allow-root plugin install classic-editor --activate
 wp --allow-root plugin install intuitive-custom-post-order --activate
 wp --allow-root plugin install akismet --activate
 wp --allow-root plugin install broken-link-checker --activate
+wp --allow-root plugin install show-current-template --activate
+
 
 # Mailhog メールが文字化けしないよう WP Multibyte Patch の設定調整
 # https://eastcoder.com/code/wp-multibyte-patch/
