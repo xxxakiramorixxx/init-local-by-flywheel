@@ -35,7 +35,6 @@ wp --allow-root plugin install contact-form-7 --activate
 wp --allow-root plugin install duplicate-post --activate
 wp --allow-root plugin install admin-bar-position --activate
 wp --allow-root plugin install classic-editor --activate
-wp --allow-root plugin install intuitive-custom-post-order --activate
 wp --allow-root plugin install akismet --activate
 wp --allow-root plugin install broken-link-checker --activate
 wp --allow-root plugin install post-types-order --activate
